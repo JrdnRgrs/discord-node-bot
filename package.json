@@ -1,0 +1,19 @@
+{
+  "name": "discord-node-bot",
+  "version": "1.0.0",
+  "description": "A nodejs powered Discord Bot template to quickly get you started building.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JrdnRgrs/discord-node-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JrdnRgrs/discord-node-bot/issues"
+  },
+  "homepage": "https://github.com/JrdnRgrs/discord-node-bot#readme"
+}
